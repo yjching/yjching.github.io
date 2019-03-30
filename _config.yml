@@ -1,5 +1,5 @@
 locale: "en-AU"
-title: bittersmash # Title of your site
+title: Yi Jian Ching Blog # Title of your site
 url: "http://yjching.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
